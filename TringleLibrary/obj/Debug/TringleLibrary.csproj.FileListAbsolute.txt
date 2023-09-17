@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\TringleLibrary\TringleLibrary\bin\Debug\TringleLibrary.dll
+C:\Users\HP\source\repos\TringleLibrary\TringleLibrary\bin\Debug\TringleLibrary.pdb
+C:\Users\HP\source\repos\TringleLibrary\TringleLibrary\obj\Debug\TringleLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TringleLibrary\TringleLibrary\obj\Debug\TringleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TringleLibrary\TringleLibrary\obj\Debug\TringleLibrary.dll
+C:\Users\HP\source\repos\TringleLibrary\TringleLibrary\obj\Debug\TringleLibrary.pdb
